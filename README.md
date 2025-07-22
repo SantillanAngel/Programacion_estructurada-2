@@ -1,2 +1,2 @@
-# Programacion_estructurada-2
-Parcisal 2
+# Programacion_Estructurada,
+Practica realizadas 
